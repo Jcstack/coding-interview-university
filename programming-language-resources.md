@@ -1,8 +1,9 @@
-## Programming Language Resources
+## Programming Language Resources - JcStack
 
 - C
-  - [ANSI C Cheat Sheet](<https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf>)
-  - [K&R C book (ANSI C)](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+
+  - [ANSI C Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
+  - [K&amp;R C book (ANSI C)](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
   - [Make, Clang (video)](https://www.youtube.com/watch?v=U3zCxnj2w8M)
   - [Top C Programming Interview Questions](https://www.interviewbit.com/c-interview-questions)
   - GDB:
@@ -12,8 +13,8 @@
   - [Let us C](https://books.google.co.in/books/about/Let_Us_C.html?id=7HrjAAAACAAJ)
   - [Complete C programming for beginners](https://youtu.be/KJgsSFOSQv0)
   - [Learn C in Detail](https://www.scaler.com/topics/c/)
-
 - C++
+
   - [C++ Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/Cpp_reference.pdf)
   - [STL Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
   - [basics](https://www.tutorialspoint.com/cplusplus/cpp_basic_syntax.htm)
@@ -23,7 +24,7 @@
   - [references](https://www.geeksforgeeks.org/references-in-c/)
   - [templates](https://www.cprogramming.com/tutorial/templates.html)
   - [compilation](https://www.youtube.com/watch?v=ZTu0kf-7h08)
-  - [scope & linkage](https://www.learncpp.com/cpp-tutorial/scope-duration-and-linkage-summary/)
+  - [scope &amp; linkage](https://www.learncpp.com/cpp-tutorial/scope-duration-and-linkage-summary/)
   - [namespaces](https://www.tutorialspoint.com/cplusplus/cpp_namespaces.htm)
   - [OOP](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
   - [STL](https://www.hackerearth.com/practice/notes/standard-template-library/)
@@ -38,6 +39,7 @@
   - [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y)
   - [C++ Interview Questions](https://www.interviewbit.com/cpp-interview-questions)
 - Python
+
   - [Python Cheat Sheet](https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
   - [Python in One Video](https://www.youtube.com/watch?v=N4mEzFDjqtA)
   - [Series on 3.4 (video)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
@@ -53,6 +55,7 @@
   - [Python Interview Questions](https://www.interviewbit.com/python-interview-questions)
   - [Python Guide for Beginners](https://wiingy.com/learn/python/python-tutorial/)
 - Java
+
   - [Stanford CS106A - Programming Methodology (video)](https://see.stanford.edu/Course/CS106A)
   - [Java Cheat Sheet](https://www.interviewbit.com/java-cheat-sheet)
   - [Introduction To Programming In Java](http://introcs.cs.princeton.edu/java/home/)
@@ -62,6 +65,7 @@
   - [Top Java Interview Questions and Answers](https://www.interviewbit.com/java-interview-questions)
   - [Data Structures in Java](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 - Go
+
   - [The Go programming Language](https://golang.org/)
   - [The Go programming Language (book)](http://www.gopl.io/)
   - [A Tour of Go](https://tour.golang.org/)
@@ -72,6 +76,7 @@
   - [Go Proverbs - Rob Pike (video)](https://www.youtube.com/watch?v=PAAkCSZUG1c)
   - [Gophercises - Free course on Coding Exercises in Go](https://gophercises.com)
 - HTML
+
   - [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet)
   - [Quick HTML Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
   - [HTML Crash Course for Beginners (1 hr)](https://www.youtube.com/watch?v=UB1O30fR-EE)
@@ -80,12 +85,14 @@
   - [W3 Schools](https://www.w3schools.com/html/)
   - [Html Interview Questions](https://www.interviewbit.com/html-interview-questions)
 - CSS
+
   - [Quick CSS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C)
   - [CSS Crash Course for absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
   - [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
   - [W3 Schools](https://www.w3schools.com/css/)
   - [Top 30+ CSS Interview Questions](https://www.interviewbit.com/css-interview-questions)
 - Javascript
+
   - [JavaScript Cheat Sheet](https://www.interviewbit.com/javascript-cheat-sheet)
   - [Learn Javascript in 12 minutes](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
   - [Javascript Beginner Tutorials](https://www.youtube.com/playlist?list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa)
@@ -94,19 +101,18 @@
   - [Javascript Tutorial - Learn From Scratch](https://www.scaler.com/topics/javascript/)
   - [Javascript Interview Questions and Answers](https://www.interviewbit.com/javascript-interview-questions)
 - Rust
+
   - [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
   - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
   - [Rust Tutorial by Doug Milford from Lambda Valley](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
   - [Introduction - Easy Rust](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
   - [Rust overview](https://learning-rust.github.io/docs/index.html)
   - [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html)
-
 - Ruby
 
   - [The Ruby Programming Language](https://book4you.org/book/1219034/7c9a4b)
   - [Polished Ruby Programming](https://book4you.org/book/16678106/f61159)
   - [Ruby Fu](https://rubyfu.net/)
   - [Ruby Koans](http://rubykoans.com/)
-
 - Other Language 2
 - etc
